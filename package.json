@@ -1,0 +1,23 @@
+{
+  "name": "currency",
+  "version": "1.0.0",
+  "description": "Transform number to Currency Object",
+  "main": "currency.js",
+  "scripts": {
+    "test": "node currency.test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/jimmy-collazos/currency.git"
+  },
+  "keywords": [
+    "currency",
+    "money"
+  ],
+  "author": "Jimmy collazos <jimmy.collazos@gmail.com> (https://github.com/jimmy-collazos)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jimmy-collazos/currency/issues"
+  },
+  "homepage": "https://github.com/jimmy-collazos/currency#readme"
+}
